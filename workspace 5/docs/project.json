@@ -1,0 +1,8 @@
+{
+  "project_type": "web",
+  "sub_project_type": "",
+  "name": "Тетрадь абитуриента",
+  "app_slug": "abiturient-notebook",
+  "version_description": "Упрощает тексты, фильтры и кабинет",
+  "preview_type": "pc"
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "pageKey": "Home",
+    "title": "Главная",
+    "url": "/"
+  },
+  {
+    "pageKey": "Analytics",
+    "title": "Аналитика (демо)",
+    "url": "/analytics"
+  },
+  {
+    "pageKey": "Checklist",
+    "title": "Чек-лист поступления",
+    "url": "/checklist"
+  },
+  {
+    "pageKey": "Competition",
+    "title": "Конкурсные списки (демо)",
+    "url": "/competition"
+  },
+  {
+    "pageKey": "CompetitionApplicant",
+    "title": "Страница абитуриента (демо)",
+    "url": "/competition/applicant/:applicantId"
+  },
+  {
+    "pageKey": "Deadlines",
+    "title": "Личные дедлайны",
+    "url": "/deadlines"
+  },
+  {
+    "pageKey": "Ege",
+    "title": "ЕГЭ",
+    "url": "/ege"
+  },
+  {
+    "pageKey": "Events",
+    "title": "Мероприятия",
+    "url": "/events"
+  },
+  {
+    "pageKey": "Favorites",
+    "title": "Избранное",
+    "url": "/favorites"
+  },
+  {
+    "pageKey": "Login",
+    "title": "Демо-вход",
+    "url": "/login"
+  },
+  {
+    "pageKey": "Notifications",
+    "title": "Уведомления (демо)",
+    "url": "/notifications"
+  },
+  {
+    "pageKey": "Olympiads",
+    "title": "Олимпиады",
+    "url": "/olympiads"
+  },
+  {
+    "pageKey": "Onboarding",
+    "title": "Онбординг",
+    "url": "/onboarding"
+  },
+  {
+    "pageKey": "Pitfalls",
+    "title": "Подводные камни",
+    "url": "/pitfalls"
+  },
+  {
+    "pageKey": "Profile",
+    "title": "Личный кабинет",
+    "url": "/profile"
+  },
+  {
+    "pageKey": "Register",
+    "title": "Демо-регистрация",
+    "url": "/register"
+  }
+]
